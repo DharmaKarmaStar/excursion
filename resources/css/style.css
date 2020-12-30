@@ -1,0 +1,10 @@
+/*universal styles*/
+html {
+    background-color: black;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    text-align: center;
+    }
